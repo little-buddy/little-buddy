@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![BITCON](https://badgen.net/https/napkin-examples.npkn.net/bitcoin-badge)
 <!--
 **little-buddy/little-buddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
