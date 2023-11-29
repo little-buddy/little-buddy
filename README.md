@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![BITCON](https://badgen.net/https/napkin-examples.npkn.net/bitcoin-badge)
+
 <!--
 **little-buddy/little-buddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./btctomoon.png" width="180" />
-
+<img src="./btctomoon-x.png" width="180" />
