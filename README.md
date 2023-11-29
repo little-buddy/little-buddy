@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/little-buddy/little-buddy/edit/main/btctomoon.png)
+<img src="./btctomoon.png" width="180" />
+
